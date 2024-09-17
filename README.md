@@ -20,6 +20,19 @@
 <h3>Find Subdomains of a Subdomain</h3>
 Some websites have 5th and 6th level of subdomains
 
-<a href="https://github.com/infosec-au/altdns">altdns</a>
+- <a href="https://github.com/infosec-au/altdns">altdns</a> - Altdns is a DNS recon tool that allows for the discovery of subdomains that conform to patterns.
+
+- <a href="https://github.com/TheRook/subbrute">SubBrute</a> -  This tool is used to find subdomains from a website/web application.  SubBrute tool is written in python language you must have python language installed into your Kali Linux in order to use this tool.
+
+<h3>Subdomain Validation</h3>
+<a href="https://github.com/ChrisTruncer/EyeWitness">Eyewitness</a> - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+
+<h3>Target Ip range</h3>
+- <a href="https://whois.arin.net/">arin.net</a> - Restful web service for WHOIS data 
+
+
+
+
+
 
 
