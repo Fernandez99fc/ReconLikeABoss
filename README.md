@@ -17,3 +17,9 @@
 
 - https://crt.sh/?q=%25paypal.com (Use “%target.com”.)
 
+<h3>Find Subdomains of a Subdomain</h3>
+Some websites have 5th and 6th level of subdomains
+
+<a href="https://github.com/infosec-au/altdns">altdns</a>
+
+
