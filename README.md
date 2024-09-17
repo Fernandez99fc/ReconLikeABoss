@@ -30,8 +30,34 @@ Some websites have 5th and 6th level of subdomains
 <h3>Target Ip range</h3>
 - <a href="https://whois.arin.net/">arin.net</a> - Restful web service for WHOIS data 
 
+<h3>Google Dorking</h3>
+Google Dork:
 
+- site:target.com filetype:php
 
+- site:target.com filetype:aspx
+  
+- site:target.com filetype:swf (Shockwave Flash)
+
+- site:target.com filetype:wsdl
+
+Find Parameter
+
+- site: target.com inurl:.php?id=
+ 
+- site: target.com inurl:.php?user=
+ 
+- site: target.com inurl:.php?book=
+
+• Find Login Page
+
+- site: target.com inurl:login.php
+  
+- site: target.com intext: “login”
+  
+- site: target.com inurl:portal.php
+  
+- site: target.com inurl:register.php
 
 
 
